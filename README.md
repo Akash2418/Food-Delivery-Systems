@@ -1,0 +1,1 @@
+A Java-based Food Delivery System that manages user orders, restaurant menus, and admin operations with real-time data handling using MySQL. Designed for smooth ordering and efficient backend management.
